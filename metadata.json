@@ -1,0 +1,6 @@
+{
+  "name": "MotoQuiz Race Simulator",
+  "description": "An interactive web application for personalized motorcycle selection and race simulation on a private circuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
